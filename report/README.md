@@ -1,26 +1,5 @@
 # 📕 Documentation
 
-### 📌 Kubernetes basics
-
-<details>
-<summary>🔎 What? </summary>
-</details>
-<details>
-<summary>🔎 Why? </summary>
-</details>
-<details>
-<summary>🔎 When? </summary>
-</details>
-<details>
-<summary>🔎 How? </summary>
-</details>
-
----
-
-### 📌 Kubernetes competitors
-<details>
-<summary>🔎 Who? </summary>
-</details>
-<details>
-<summary>🔎 Why? </summary>
-</details>
+The complete documentation can be found in the repo's Wiki. 
+- 📌 [Kubernetes basics](https://github.com/sebivenlo/esd-2024-kubernetes/wiki/Kubernetes-Basics)
+- 📌 [Kubernetes competitors](https://github.com/sebivenlo/esd-2024-kubernetes/wiki/Kubernetes-Competitors)
